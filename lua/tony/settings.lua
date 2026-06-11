@@ -17,5 +17,5 @@ vim.opt.splitbelow = true
 vim.opt.splitright = true
 
 -- Search
-vim.opt.hlsearch = false
 vim.opt.incsearch = true
+vim.opt.ignorecase = true
